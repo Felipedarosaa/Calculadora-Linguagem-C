@@ -49,4 +49,5 @@ main()
 		}
 	}
 	printf("\n  %.f %c %.f = %.f", n1, op, n2, result);
+	printf("Tamo junto cara");
 }
